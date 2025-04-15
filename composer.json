@@ -1,5 +1,5 @@
 {
-    "name": "altwaireb/laravel-world",
+    "name": "juanchopalen/laravel-world",
     "description": "Laravel World, Countries States Cities DB Migration & Seeder",
     "keywords": [
         "countries",
@@ -8,12 +8,12 @@
         "laravel",
         "laravel-world"
     ],
-    "homepage": "https://github.com/altwaireb/laravel-world",
+    "homepage": "https://github.com/juanchopalen/laravel-world",
     "license": "MIT",
     "authors": [
         {
-            "name": "Abdulmajeed Altwaireb",
-            "email": "altwaireb@gmail.com",
+            "name": "Juan Palencia",
+            "email": "juanchopalen@gmail.com",
             "role": "Developer"
         }
     ],
